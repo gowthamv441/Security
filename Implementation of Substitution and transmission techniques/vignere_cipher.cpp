@@ -60,7 +60,7 @@ string originalText(string cipher_text, string key)
 // Driver program to test the above function
 int main()
 {
-	string str = "GEEKSFORGEEKS";
+	string str = "GOWTHAM VELMURUGAN";
 	string keyword = "AYUSH";
 
 	string key = generateKey(str, keyword);
